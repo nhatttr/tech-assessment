@@ -38,5 +38,3 @@ Deliverables:
    4. Jenkins	pipeline	script	to	deploy	application(s)	into	the	kubernetes	cluster
    5. Application	API	deployed	into	AWS	API	gateway
    6. Working	postman	script	to	demonstrate	the	API	with	proper	authentication.
-
-#############################################################################################
